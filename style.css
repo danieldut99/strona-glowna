@@ -282,6 +282,7 @@ section {
     margin-bottom: 2rem;
     margin-top: 2rem;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .about-details-container {
@@ -293,6 +294,7 @@ section {
 .about-containers,
 .about-details-container {
     display: flex;
+    justify-content: center;
 }
 
 .about-pic {
